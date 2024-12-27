@@ -1,0 +1,28 @@
+{
+    "events":[
+        {
+            "id":1,
+            "day":12,
+            "month":"Dekabr",
+            "type":"İnfosesiya",
+            "about":"Vəkillər kolleqasının 2024-cü ilin son rübü ilə bağlı açıqlama"
+
+        },
+        {
+            "id":2,
+            "day":23,
+            "month":"Noyabr",
+            "type":"Konfrans",
+            "about":"Azərbaycan Respublikasının hüquqi  tənzimləmələrlə bağlı"
+            
+        },
+        {
+            "id":3,
+            "day":14,
+            "month":"Noyabr",
+            "type":"Açıq qapı günü",
+            "about":"İnjuria redaksiyasında açıq qapı günü"
+            
+        }
+    ]
+}

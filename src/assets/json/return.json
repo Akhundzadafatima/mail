@@ -1,0 +1,28 @@
+{
+    "users":[
+        {
+            "id":1,
+            "stars":"/src/assets/images/Stars.jpg",
+            "title":"The team at Injuria was incredibly helpful and knowledgeable. I felt supported throughout my legal journey.",
+            "userimage":"/src/assets/images/eaeaaaec2fcad5a51436a80b65c3dfec.png",
+            "username":"Jane Doe",
+            "position":"CEO, Legal Firm"
+        },
+        {
+            "id":2,
+            "stars":"/src/assets/images/Stars.jpg",
+            "title":"Injuria's insights were invaluable to my case. I highly recommend their services! They are  incredibly helpful",
+            "userimage":"/src/assets/images/27ce9a1c90f33014c90379b00de8ed9f.png",
+            "username":"John Smith",
+            "position":"Manager, Tech Corp"
+        },
+        {
+            "id":3,
+            "stars":"/src/assets/images/Stars.jpg",
+            "title":"Injuria's insights were invaluable to my case. I highly recommend their services! They are  incredibly helpful",
+            "userimage":"/src/assets/images/27ce9a1c90f33014c90379b00de8ed9f.png",
+            "username":"John Smith",
+            "position":"Manager, Tech Corp"
+        }
+    ]
+}

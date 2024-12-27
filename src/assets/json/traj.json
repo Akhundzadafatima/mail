@@ -1,0 +1,22 @@
+{
+    "trajs":[
+        {
+            "id":1,
+            "image":"/src/assets/images/Container (1).jpg",
+            "trajtime":"Oktyabr 2024"
+
+        },
+        {
+            "id":2,
+            "image":"/src/assets/images/Container.jpg",
+            "trajtime":"Sentyabr 2024"
+
+        },
+        {
+            "id":3,
+            "image":"/src/assets/images/Container (2).jpg",
+            "trajtime":"Avqust 2024"
+
+        }
+    ]
+}

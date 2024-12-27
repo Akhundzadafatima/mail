@@ -1,0 +1,22 @@
+{
+    "news":[
+        {
+            "id":1,
+            "newsimage":"/src/assets/images/Rectangle 10.jpg",
+            "newstitle":"Milli Məclis: COP29-la bağlı beynəlxalq ictimaiyyəti aldatmağa yönələn məlumatlar paylaşılıb",
+            "newstime":"11 Noyabr, 2024"
+        },
+        {
+            "id":2,
+            "newsimage":"/src/assets/images/Rectangle 10 (1).jpg",
+            "newstitle":"İlham Əliyev İraq prezidenti ilə görüşüb",
+            "newstime":"11 Noyabr, 2024"
+        },
+        {
+            "id":3,
+            "newsimage":"/src/assets/images/Rectangle 10 (2).jpg",
+            "newstitle":"COP29 tədbir məkanı BMT-nin İqlim Dəyişmələri üzrə Çərçivə Konvensiyasına təhvil verilib",
+            "newstime":"10 Noyabr, 2024"
+        }
+    ]
+}
