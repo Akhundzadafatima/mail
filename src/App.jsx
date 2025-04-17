@@ -66,12 +66,12 @@ function App() {
   };
 
   return (
-    <div className="flex flex-col items-center justify-center text-[#252525] mt-32">
-      <h1 className="font-dancing font-bold text-[42px]">Only an email from Fatima to Aysel</h1>
-      <div className="flex flex-col items-center justify-center gap-8 rounded-[10px] py-10 mt-2 bg-[#252525] w-[50%] h-[50vh]">
+    <div className="flex flex-col items-center justify-center text-[#252525] md:mt-32 mt-16">
+      <h1 className="font-dancing font-bold text-[42px] text-center">Only an email from Fatima to Aysel</h1>
+      <div className="flex flex-col items-center justify-center gap-8 rounded-[10px] mt-2 bg-[#252525] lg:w-[50%]  md:w-[80%] w-[90%] lg:h-[50vh] md:h-[40vh] h-[57vh]">
         <textarea
           placeholder="Mesajınızı yazın..."
-          className="w-[70%] h-[17vh] outline-none rounded-[6px] text-[20px] p-3"
+          className="w-[70%] h-[15vh] outline-none rounded-[6px] text-[20px] p-3"
           value={message}
           onChange={handleChange}
           onBlur={handleBlur}
@@ -81,7 +81,7 @@ function App() {
           className="bg-[#252525] w-[70%] h-[50px] rounded-[6px] border-[2px]  border-white text-white hover:bg-[#484848e4] transition-all duration-300 delay-100"
           onClick={handleSubmit}
         >
-          Gönder
+          Göndər
         </button>
       </div>
     </div>
